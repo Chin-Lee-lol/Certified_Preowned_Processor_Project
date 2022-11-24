@@ -89,4 +89,4 @@ module sign_extend represents sign extension in MIPS where using two's complemen
 ### dump.vcd
 
 dump.vcd represents the output of all the .v files above in waveforms, needs to be run with gtkwave software to produce image shown as below.
-![alt text](https://ibb.co/sW7d6f3)
+![alt text](https://github.com/Chin-Lee-lol/Certified_Preowned_Processor_Project/blob/main/output%20image/waveform.png)
